@@ -77,7 +77,11 @@ The Primary source of Data used here is LITA Capstone Dataset.xlsx and this is a
  key Insights:
           - Create dashboard that include a sales overview, top-performing product
           ![Sale report (2)](https://github.com/user-attachments/assets/f854e7d0-2f2e-4114-ad4d-51621a10737e)
+          
+          
           ![top performing product report (2)](https://github.com/user-attachments/assets/758157f9-7a74-4d8d-a71a-ee31ba56592c)
+
+          
 ![SALE (2)](https://github.com/user-attachments/assets/4af1041f-0d04-47c6-9787-4a3695b6edc4)
 
 
