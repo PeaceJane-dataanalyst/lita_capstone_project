@@ -40,6 +40,9 @@ The Primary source of Data used here is LITA Capstone Dataset.xlsx and this is a
     key insights:
        - Perform an initial exploration of sale data, using pivot tables to summarize total sale by product,region and month.
        - Use Excel formula to calculate metrics such as average sales per product and total revenue by region.
+ 
+         ![pivot table  (2)](https://github.com/user-attachments/assets/54aabd51-0a44-49cc-8ae8-db56667eef4e)
+
 
     ### Data Analysis
     This is where we include some basic lines of codes or queries or even some of the DAX expression used during analysis, some lines of queries that answer this following questions:
@@ -51,6 +54,9 @@ The Primary source of Data used here is LITA Capstone Dataset.xlsx and this is a
     - Find the top5 customers by total purchase amount
     - calculate the percentage of total sales contributed by each region
     - Identify product with no sales in the last quarter
+
+      ![Screenshot 2024-11-04 153754 (2)](https://github.com/user-attachments/assets/b3a842f6-400e-473f-b90c-6b08f5c2988b)
+
    
 
 
@@ -70,5 +76,10 @@ The Primary source of Data used here is LITA Capstone Dataset.xlsx and this is a
 ### Data Visualitation
  key Insights:
           - Create dashboard that include a sales overview, top-performing product
+          ![Sale report (2)](https://github.com/user-attachments/assets/f854e7d0-2f2e-4114-ad4d-51621a10737e)
+          ![top performing product report (2)](https://github.com/user-attachments/assets/758157f9-7a74-4d8d-a71a-ee31ba56592c)
+![SALE (2)](https://github.com/user-attachments/assets/4af1041f-0d04-47c6-9787-4a3695b6edc4)
+
+
    
     
