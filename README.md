@@ -63,34 +63,23 @@ The Primary source of Data used here is LITA Capstone Dataset.xlsx and this is a
     - Identify product with no sales in the last quarter
 
       ![Screenshot 2024-11-04 153754 (2)](https://github.com/user-attachments/assets/b3a842f6-400e-473f-b90c-6b08f5c2988b)
-
-      ```
-
-   
+      
+![Screenshot sales  (2)](https://github.com/user-attachments/assets/3f283585-3dd1-4f04-9d8f-f4985e802294)
 
 
+### Data Visualization
+---![top performing product report (2)](https://github.com/user-attachments/assets/788b7092-0848-4846-af48-a4afe4aecc47)
+![top performing product report (2)](https://github.com/user-attachments/assets/813e6c12-9406-44f7-a1f2-2046142de93e)
 
-
-
-
-
-
-
-
-
-
-
-
-
-### Data Visualitation
  key Insights:
           - Create dashboard that include a sales overview, top-performing product
           ![Sale report (2)](https://github.com/user-attachments/assets/f854e7d0-2f2e-4114-ad4d-51621a10737e)
-          
-          
-          ![top performing product report (2)](https://github.com/user-attachments/assets/758157f9-7a74-4d8d-a71a-ee31ba56592c)
-
+         
 ![SALE (2)](https://github.com/user-attachments/assets/4af1041f-0d04-47c6-9787-4a3695b6edc4)
+
+### Conclusion
+---
+This project demonstrated the power of data analysis is unlocking sales secrets. By leveraging interactive dashboards.
 
 
    
