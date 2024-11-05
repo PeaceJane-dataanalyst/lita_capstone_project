@@ -68,11 +68,12 @@ The Primary source of Data used here is LITA Capstone Dataset.xlsx and this is a
 
 
 ### Data Visualization
----![top performing product report (2)](https://github.com/user-attachments/assets/788b7092-0848-4846-af48-a4afe4aecc47)
-![top performing product report (2)](https://github.com/user-attachments/assets/813e6c12-9406-44f7-a1f2-2046142de93e)
-
+---
  key Insights:
           - Create dashboard that include a sales overview, top-performing product
+![top performing product report (2)](https://github.com/user-attachments/assets/788b7092-0848-4846-af48-a4afe4aecc47)
+![Sale report (2)](https://github.com/user-attachments/assets/e7a9c4c7-4c75-43ab-b0c6-dd69dbad1a3d)
+
           ![Sale report (2)](https://github.com/user-attachments/assets/f854e7d0-2f2e-4114-ad4d-51621a10737e)
          
 ![SALE (2)](https://github.com/user-attachments/assets/4af1041f-0d04-47c6-9787-4a3695b6edc4)
